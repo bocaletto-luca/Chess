@@ -57,4 +57,4 @@ Open `index_bot_final.php` in your browser (ensure the page is served via HTTP/H
 
 📄 **License**
 
-This project is released under the GPLv3 License. See
+This project is released under the GPLv3 License. @bocaletto-luca
